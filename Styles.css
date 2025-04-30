@@ -90,7 +90,7 @@ header.scrolled {
 }
 
 .logo span {
-    color: #333;
+    color: #000000;
 }
 
 nav ul {
@@ -105,10 +105,11 @@ nav ul li {
 nav ul li a {
     font-weight: 600;
     transition: color 0.3s ease;
+    color: black;
 }
 
 nav ul li a:hover {
-    color: #ff6b6b;
+    color: #70671f;
 }
 
 .mobile-menu-btn {
@@ -120,7 +121,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('Images/IMG_2435.jpg') no-repeat center center/cover;
+    background: url('https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_576/https://barioniemacedo.adv.br/wp-content/uploads/2021/08/mulheres-adv-1024x576.png') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
