@@ -35,7 +35,7 @@ a {
 }
 
 .btn:hover {
-    background-color: #ff5252;
+    background-color: #70671f;
     transform: translateY(-3px);
 }
 
@@ -333,8 +333,15 @@ nav ul li a:hover {
     transition: all 0.3s ease;
 }
 
+.social-links i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
 .social-links a:hover {
-    background-color: #ff6b6b;
+    background-color: #70671f;
     color: white;
 }
 
@@ -399,7 +406,7 @@ footer {
 .footer-col h3 {
     font-size: 1.3rem;
     margin-bottom: 20px;
-    color: #ff6b6b;
+    color: #70671f;
 }
 
 .footer-col p {
@@ -418,7 +425,7 @@ footer {
 }
 
 .footer-links a:hover {
-    color: #ff6b6b;
+    color: black;
 }
 
 .footer-bottom {
