@@ -89,6 +89,14 @@ header.scrolled {
     color: #ff6b6b;
 }
 
+.logo img{
+    display: flex;
+    height: 200px;
+    margin-top: -50px;
+    margin-bottom: -50px;
+    margin-left: -60px;
+}
+
 .logo span {
     color: #000000;
 }
@@ -121,7 +129,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_576/https://barioniemacedo.adv.br/wp-content/uploads/2021/08/mulheres-adv-1024x576.png') no-repeat center center/cover;
+    background: url(Images/LOGO\ 3D\ 03\ -\ DOURADA\ -\ CELMIRA\ ADVOGADA\ -\ Copia.png) no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -149,7 +157,7 @@ nav ul li a:hover {
 
 .hero-content h1 {
     font-size: 3.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 215px;
 }
 
 .hero-content p {
