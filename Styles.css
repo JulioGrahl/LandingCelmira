@@ -129,7 +129,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url("Images/LOGO%203D%2003%20-%20DOURADA%20-%20CELMIRA%20ADVOGADA%20-%20Copia.png") no-repeat center center/cover;
+    background: url('Images/Logo-3d.png') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
